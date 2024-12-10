@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html>
   <head>
     <meta charset="utf-8" />
@@ -9,14 +8,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="stylesheet" href="style.css" />
   </head>
+
   <body>
-    <p>Filler</p>
     <h1>URL to QR Generator</h1>
-    <input type="text" id="urlinput" placeholder="Enter URL here" />
-    <button id="generatebutton">Generate QR</button>
-
-    <div id="qrcode"></div>
-
-    <script src="app.js"></script>
+    <input type="text" id="urlInput" placeholder="Enter URL here" />
+    <button id="generateButton">Generate QR</button>
+    <div id="qrCode"></div>
+    <script src="./app.js" type="module"></script>
+    <!-- Parcel will handle this -->
   </body>
 </html>

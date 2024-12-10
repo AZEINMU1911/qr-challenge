@@ -1,0 +1,40 @@
+body {
+  text-align: center;
+  color: #333;
+  background-color: #add8e6;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: #444;
+  margin-bottom: 20px;
+}
+
+input {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 300px;
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  cursor: pointer;
+  color: #333;
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 12px;
+  font-size: 15px;
+}
+
+button :hover {
+  background-color: #005600;
+}
+
+#qr-code {
+  margin-top: 20px;
+}
+/*# sourceMappingURL=index.3a01df49.css.map */
