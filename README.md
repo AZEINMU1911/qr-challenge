@@ -49,3 +49,6 @@ This project showcase basic skill in frontend development
 - DOM manipulation
 - Using libraries
 - Building basic web app
+
+![QR Code](https://raw.githubusercontent.com/AZEINMU1911/qr-challenge/main/qr_1.png)
+![QR Code](https://raw.githubusercontent.com/AZEINMU1911/qr-challenge/main/qr_2.png)
